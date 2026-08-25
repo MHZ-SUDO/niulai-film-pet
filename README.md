@@ -1,6 +1,17 @@
 # 牛来 Codex Pet
 
+> 本页默认使用简体中文，安装与排障命令适用于 Windows。
+
+## 中文简介
+
 这是一个以电影《牛来》成年黄牛形态为视觉依据的 Codex v2 像素宠物。它有完整动画、“牛来签”中文便笺、单击/悬停/拖动反馈，以及适配 Windows Codex 透明宠物窗口的点击输入桥。
+
+<details>
+<summary>English introduction</summary>
+
+Niulai is an unofficial, non-commercial Codex v2 pixel pet inspired by the adult yellow bull from the film. It includes a complete animation atlas, Chinese “Niulai Notes,” click/hover/drag responses, and Windows helpers for the transparent Codex pet window.
+
+</details>
 
 ![牛来 Codex v2 动画状态总览](docs/contact-sheet.png)
 
