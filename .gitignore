@@ -1,0 +1,19 @@
+# Windows desktop clutter
+Thumbs.db
+Desktop.ini
+
+# PowerShell/Codex pet runtime state
+*.pid
+*.tmp
+codex-pet-input-bridge-error.json
+codex-pet-input-bridge-state.json
+niulai-talk-command.json
+niulai-talk-interaction-state.json
+niulai-talk-last-message.json
+niulai-talk-layout-state.json
+niulai-talk-overlay-state.json
+niulai-talk-pointer-events.json
+
+# Local release and QA artifacts
+release-manifest.local.json
+qa/install-verification.json

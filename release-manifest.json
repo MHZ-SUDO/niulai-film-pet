@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "package": "niulai-film-pet",
+  "version": "1.1.2",
+  "builtAt": "2026-08-25",
+  "compatibility": {
+    "platform": "Windows 10/11",
+    "shell": "Windows PowerShell 5.1",
+    "spriteVersionNumber": 2,
+    "layout": "per-monitor DPI adaptive",
+    "input": "low-level hook with native drag relay"
+  },
+  "dialogue": {
+    "fixedMessages": 100,
+    "filmMessages": 30,
+    "generatedCombinations": 27648
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 96,
+      "sha256": "58EE785067F4F75FC6141F03E5F56ECF87C0CA7A13D17A6C982F740EFB6B2E04"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 440,
+      "sha256": "AC73B7A4CA02C58E3E0EC7223FA256DE51B7F729DDC484B6662BFE5305865B0A"
+    },
+    {
+      "path": "ASSET_NOTICE.md",
+      "bytes": 1232,
+      "sha256": "D5B021A1ED9D8B5B50C8EE7308E8F25D81AE21601D6DC185C24D77E522092DBE"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 1472,
+      "sha256": "3276B11B40A940B3BFE1F931F9AB5F28D400CFD540DE572ECBA960EEB689DBA0"
+    },
+    {
+      "path": "CodexPetInputBridge.ps1",
+      "bytes": 75476,
+      "sha256": "BD13F14463B74BA3FFCDA2D62E9D2194E9E7492DF43879475C31088E1C66F1AC"
+    },
+    {
+      "path": "docs/contact-sheet.png",
+      "bytes": 851485,
+      "sha256": "688B45D820DDC1915DC78C4AE5F6613E676594B526BC51CFE15417EB3A375E2D"
+    },
+    {
+      "path": "Get-NiulaiStatus.ps1",
+      "bytes": 4785,
+      "sha256": "2066AB387A2A9D3EBC3BD8D70AC07AF8E307964F3EB6C6956401B0A97A3C8243"
+    },
+    {
+      "path": "Install-Niulai.ps1",
+      "bytes": 4289,
+      "sha256": "FBCF1BFCE2DD9834C667923BBE9B8FD184394EA2D174CE2712192174A163DBCE"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1223,
+      "sha256": "18E5DE05B5B607F2664973100D5BF9B32C80C89B685ACB2D48BE1D7F93142B58"
+    },
+    {
+      "path": "niulai-talk-dialogue.json",
+      "bytes": 18098,
+      "sha256": "28A3C73F17B5F948E17725E4ABF322889B671E5D19D41C84C7BBF0AA5C364F44"
+    },
+    {
+      "path": "NiulaiOverlay.ps1",
+      "bytes": 52445,
+      "sha256": "2E9C1681B17B6DC74F3A1B83C36B2143001F994225759C2A724018A732BCEB1A"
+    },
+    {
+      "path": "package-version.json",
+      "bytes": 82,
+      "sha256": "98707136D015C08AE3B87FD71FD072C1941D6E1DAE785410A373084713D9EF5A"
+    },
+    {
+      "path": "pet.json",
+      "bytes": 270,
+      "sha256": "3CA5E12C635D0F9F429C81D13FA5774DED4D6779A614A4B68EB1E33934C9F86D"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5734,
+      "sha256": "795F04D82DD04F8F5F7DE309F23635B609D8FFDBC142B2C17B8A725C42DFDFF8"
+    },
+    {
+      "path": "Show-Niulai.ps1",
+      "bytes": 1577,
+      "sha256": "3F5D227406E75220CC6560E474F3C64659B794849ED69966ADC08182F0105731"
+    },
+    {
+      "path": "spritesheet.webp",
+      "bytes": 2438642,
+      "sha256": "8FF11F3E72A3E1F8DD42B5BA7A26B505AFA5B2B78EF81A152D3D1A0AE683CB07"
+    },
+    {
+      "path": "Start-Niulai.ps1",
+      "bytes": 5824,
+      "sha256": "524DA21645851478757C5CAF4099F714DF42216717000A8E9F02DAF7812A3006"
+    },
+    {
+      "path": "Stop-Niulai.ps1",
+      "bytes": 2642,
+      "sha256": "6500F5E1EF208334212E373804BD04A7BF616C15F56038DC1EFC79AA690D41D8"
+    },
+    {
+      "path": "Uninstall-Niulai.ps1",
+      "bytes": 1812,
+      "sha256": "1FBEE4A6172DDD030ADFDB4FF6D593E0F6FF0A6C23178B42BC5391C6F536330A"
+    }
+  ]
+}
